@@ -4,8 +4,8 @@ A parametrized hand-held spring winder FreeCAD project
 
 Implemented:
 
-[+] not-threaded winder
-[ ] threaded winder
+- [x] not-threaded winder
+- [ ] threaded winder
 
 ## Prerequisites
 
